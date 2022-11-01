@@ -579,7 +579,7 @@ schemes:
 # *SolarizedDark
 # *TomorrowNight
 
-colors: *OceanicNext
+colors: *MonokaiPro
 
 #######################################
 ##       END OF COLOR SCHEMES        ##
